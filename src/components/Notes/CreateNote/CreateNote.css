@@ -1,0 +1,31 @@
+.emotion-card {
+    box-shadow: 7px 4px 22px 12px rgba(0,0,0,0.38);
+    transition: 1s;
+}
+
+.emotion-card:hover {
+    width: 160px;
+    height: 160px;
+}
+
+.desc {
+    width: 50vw;
+    height: 32vh;
+    border-radius: 20px;
+    padding: 10px;
+    resize: none;
+}
+
+.animated-img {
+    min-width: 40vw;
+}
+
+.emotions,
+.answer {
+    max-width: 60vw;
+}
+
+.animated-avatar {
+    width: 800px;
+    height: 800px;
+}

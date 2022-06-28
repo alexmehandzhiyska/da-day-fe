@@ -1,0 +1,8 @@
+.note:hover {
+    box-shadow: rgba(128, 72, 72, 0.19) 5px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.note p {
+    word-wrap: break-word;
+    margin: 15px;
+}

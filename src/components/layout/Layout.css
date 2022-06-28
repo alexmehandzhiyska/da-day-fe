@@ -1,0 +1,18 @@
+header,
+footer {
+    background: #c47a78;
+    opacity: 0.8;
+}
+
+main {
+    /* background: #f2e9de; */
+    background: #e0b89d;
+}
+
+.nav-link {
+    transition: 2s;
+}
+
+.nav-link:hover {
+    color: white;
+}
